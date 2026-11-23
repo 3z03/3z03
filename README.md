@@ -4,7 +4,7 @@
 
 <h2> 💫 Contact Me </h2>
 
-- Discord: 'demthanhpho'
+- Discord:
 <a href="https://discord.com/users/957879740457447475">
     <img src="https://lanyard.kyrie25.dev/api/957879740457447475?showDisplayName=false&animatedDecoration=true&hideDecoration=false&animatedNameplate=true&forceGradient=true&hideTimestamp=true&hideActivity=true">
 </a>
